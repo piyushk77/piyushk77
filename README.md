@@ -81,7 +81,7 @@
 
 <div align="center">
   <a href="https://holopin.io/@piyushk77">
-    <img src="https://holopin.me/piyushk77" alt="An image of @piyushk77's Holopin badges, which is a link to view their full Holopin profile" height="300" style="border-radius: 5px;">
+    <img src="https://holopin.me/piyushk77" alt="An image of @piyushk77's Holopin badges, which is a link to view their full Holopin profile" height="270">
   </a>
 </div>
 
