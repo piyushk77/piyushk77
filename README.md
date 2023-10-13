@@ -89,6 +89,20 @@
 
 ###
 
+<h3 align="left">Leetcode Statistics :</h3>
+
+###
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/piyushkatyal?theme=nord&border=0&radius=5" height="180" alt="leetcode stats">
+</div>
+
+###
+
+<br>
+
+###
+
 <h3 align="left">Social :</h3>
 
 ###
