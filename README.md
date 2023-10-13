@@ -10,8 +10,6 @@
 
 <h3 align="left">Language and tools :</h3>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="15" />
@@ -54,30 +52,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
 
-###
-
-<br>
-
-###
-
 <h3 align="left">Github :</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyushk77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushk77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=nord&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
-###
-
-<br>
-
-###
-
 <h3 align="left">Holopin :</h3>
-
-###
 
 <div align="center">
   <a href="https://holopin.io/@piyushk77">
@@ -85,39 +67,17 @@
   </a>
 </div>
 
-###
-
-<br>
-
-###
-
 <h3 align="left">Contributions Statistics :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=piyushk77&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
-###
-
-<br>
-
-###
-
 <h3 align="left">Leetcode Statistics :</h3>
 
-###
-
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/piyushkatyal?theme=nord&border=0&radius=5" height="180" alt="leetcode stats">
+  <img src="https://leetcard.jacoblin.cool/piyushkatyal?theme=nord&border=0&radius=5&ext=activity" alt="leetcode stats">
 </div>
-
-###
-
-<br>
-
-###
 
 <details>
   <summary>
@@ -130,11 +90,6 @@
   
 </details>
 
-###
-
-<br>
-
-###
 
 <details>
   <summary>
@@ -146,18 +101,13 @@
   </div>
 </details>
 
-###
-
-<br>
-
-###
 
 <h3 align="left">Social :</h3>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/piyush-katyal-315836251" target="_blank">
+  <a href="https://www.linkedin.com/in/piyush-katyal-315836251" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/PiyushKatyal77" target="_blank">
