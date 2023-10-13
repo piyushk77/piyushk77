@@ -136,6 +136,22 @@
 
 ###
 
+<details>
+  <summary>
+    <h3 align="left">Others :</h3>
+  </summary>
+
+  <div align="">
+    <img src="./github-metrics.svg" alt="Metrics data" width:"100%">
+  </div>
+</details>
+
+###
+
+<br>
+
+###
+
 <h3 align="left">Social :</h3>
 
 ###
