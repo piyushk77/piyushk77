@@ -89,7 +89,7 @@
 
 ###
 
-<h3 align="left">Contributions Statistics :</h3>
+<h3 align="left">Social :</h3>
 
 ###
 
