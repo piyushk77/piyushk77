@@ -64,8 +64,8 @@
 <h3 align="left">Github Contributions / Leetcode Statistics :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=piyushk77&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
-  <img src="https://leetcard.jacoblin.cool/piyushkatyal?theme=nord&border=0&radius=5" height="170" alt="leetcode stats">
+  <img src="https://streak-stats.demolab.com?user=piyushk77&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/piyushkatyal?theme=nord&border=0&radius=5" height="160" alt="leetcode stats">
 </div>
 
 <br>
