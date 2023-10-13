@@ -119,13 +119,16 @@
 
 ###
 
-<h3 align="left">Commit Graph :</h3>
+<details>
+  <summary>
+    <h3 align="left">3D Commit Graph :</h3>
+  </summary>
 
-###
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D commit heatmap">
-</div>
+  <div align="center">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D commit heatmap">
+  </div>
+  
+</details>
 
 ###
 
