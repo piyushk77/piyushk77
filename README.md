@@ -96,8 +96,8 @@
     <h3 align="left">Others :</h3>
   </summary>
 
-  <div align="">
-    <img src="./github-metrics.svg" alt="Metrics data" width="100%" height="100%">
+  <div align="center">
+    <img src="./github-metrics.svg" alt="Metrics data" width="50%" height="100%">
   </div>
 </details>
 
