@@ -97,7 +97,7 @@
   </summary>
 
   <div align="">
-    <img src="./github-metrics.svg" alt="Metrics data" width="100%">
+    <img src="./github-metrics.svg" alt="Metrics data" width="100%" height="100%">
   </div>
 </details>
 
