@@ -198,7 +198,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 27.3 characters per line of code written</li>
+                        <li>Has approximately 26.9 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -461,31 +461,23 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-66.877,-43.903L0,0Z">
+                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-39.703,-69.453L0,0Z">
                                         <title>C++
-74.51</title>
+81.32</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-66.323,-44.735A80,80,0,0,1,-35.574,-71.655L0,0Z">
+                                    <path fill="#e34c26" d="M-38.832,-69.943A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>HTML
-7.28</title>
-                                    </path>
-                                    <path fill="#6E4C13" d="M-34.676,-72.094A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <title>Assembly
-6.23</title>
+7.07</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(18.88918120309662,35.25902485147003)">
+                                    <text transform="translate(10.149216296068044,38.690999064066915)">
                                         <tspan x="0" y="0em" font-weight="bold">C++</tspan>
-                                        <tspan x="0" y="1.1em">74.51</tspan>
+                                        <tspan x="0" y="1.1em">81.32</tspan>
                                     </text>
-                                    <text transform="translate(-26.348347773641734,-30.09592280690573)">
+                                    <text transform="translate(-10.149216296068031,-38.690999064066915)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">7.28</tspan>
-                                    </text>
-                                    <text transform="translate(-9.01324273929895,-38.97129014187848)">
-                                        <tspan x="0" y="0em" font-weight="bold">Assembly</tspan>
-                                        <tspan x="0" y="1.1em">6.23</tspan>
+                                        <tspan x="0" y="1.1em">7.07</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -572,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.79m out of 127m users</span>
+                                    <span class="gh">ranked 1.79m out of 122m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -749,7 +741,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.9705681040383283 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1027,7 +1019,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.11m out of 59.4m repositories</span>
+                                    <span class="gh">ranked 4.95m out of 61.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
