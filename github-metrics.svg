@@ -198,7 +198,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 21.7 characters per line of code written</li>
+                        <li>Has approximately 21.3 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -473,29 +473,29 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-51.543,-61.182L0,0Z">
+                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-51.164,-61.5L0,0Z">
                                         <title>C++
-89.30</title>
+89.39</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-50.775,-61.822A80,80,0,0,1,-5.592,-79.804L0,0Z">
+                                    <path fill="#f1e05a" d="M-50.392,-62.134A80,80,0,0,1,-5.543,-79.808L0,0Z">
                                         <title>JavaScript
-9.89</title>
+9.80</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-4.594,-79.868A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#e34c26" d="M-4.545,-79.871A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>HTML
-0.82</title>
+0.81</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(13.600229778471512,37.61693435107089)">
+                                    <text transform="translate(13.483951290145662,37.658771323623654)">
                                         <tspan x="0" y="0em" font-weight="bold">C++</tspan>
-                                        <tspan x="0" y="1.1em">89.30</tspan>
+                                        <tspan x="0" y="1.1em">89.39</tspan>
                                     </text>
-                                    <text transform="translate(-14.791405484105466,-37.16469189707853)">
+                                    <text transform="translate(-14.664992875660632,-37.214754922702674)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">9.89</tspan>
+                                        <tspan x="0" y="1.1em">9.80</tspan>
                                     </text>
-                                    <text transform="translate(-1.2739744902324046,-39.97970721501393)">
+                                    <text transform="translate(-1.2615917628660291,-39.98009987761247)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
                                 </g>
@@ -716,7 +716,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.153319644079391 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.365503080082126 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1038,7 +1038,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.14m out of 107m repositories</span>
+                                    <span class="gh">ranked 5.15m out of 96.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
