@@ -198,7 +198,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 32.9 characters per line of code written</li>
+                        <li>Has approximately 33.0 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -473,23 +473,23 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-36.173,-71.355L0,0Z">
+                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-35.326,-71.778L0,0Z">
                                         <title>C++
-26.69</title>
+27.20</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-35.278,-71.802A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#f1e05a" d="M-34.426,-72.214A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>JavaScript
-2.07</title>
+2.05</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(9.176199959553,38.93324227831918)">
+                                    <text transform="translate(8.945851806153403,38.98681489250362)">
                                         <tspan x="0" y="0em" font-weight="bold">C++</tspan>
-                                        <tspan x="0" y="1.1em">26.69</tspan>
+                                        <tspan x="0" y="1.1em">27.20</tspan>
                                     </text>
-                                    <text transform="translate(-9.176199959552987,-38.93324227831918)">
+                                    <text transform="translate(-8.945851806153424,-38.98681489250362)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">2.07</tspan>
+                                        <tspan x="0" y="1.1em">2.05</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -862,7 +862,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.45m out of 85.8m repositories</span>
+                                    <span class="gh">ranked 3.45m out of 85.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -970,7 +970,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.21218343600273526 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.4243668720054705 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
