@@ -198,7 +198,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 24.7 characters per line of code written</li>
+                        <li>Has approximately 24.9 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -465,39 +465,39 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-39.641,69.488L0,0Z">
+                                    <path fill="#f34b7d" d="M0.5,-79.998A80,80,0,1,1,-36.195,71.344L0,0Z">
                                         <title>C++
-50.13</title>
+49.32</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-40.506,68.987A80,80,0,0,1,-55.606,57.515L0,0Z">
+                                    <path fill="#e34c26" d="M-37.084,70.886A80,80,0,0,1,-52.987,59.937L0,0Z">
                                         <title>HTML
-3.26</title>
+3.31</title>
                                     </path>
-                                    <path fill="#563d7c" d="M-56.321,56.815A80,80,0,0,1,-76.878,22.132L0,0Z">
+                                    <path fill="#563d7c" d="M-53.732,59.27A80,80,0,0,1,-76.053,24.818L0,0Z">
                                         <title>CSS
-6.99</title>
+7.10</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-77.148,21.169A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#f1e05a" d="M-76.357,23.865A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>JavaScript
-25.14</title>
+25.55</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(38.63149473692927,10.37340900526949)">
+                                    <text transform="translate(38.873651570260236,9.425455617316548)">
                                         <tspan x="0" y="0em" font-weight="bold">C++</tspan>
-                                        <tspan x="0" y="1.1em">50.13</tspan>
+                                        <tspan x="0" y="1.1em">49.32</tspan>
                                     </text>
-                                    <text transform="translate(-24.19858136233241,31.850096703943905)">
+                                    <text transform="translate(-22.68338554709986,32.946380986712654)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                        <tspan x="0" y="1.1em">3.26</tspan>
+                                        <tspan x="0" y="1.1em">3.31</tspan>
                                     </text>
-                                    <text transform="translate(-34.410015584188514,20.394872578565028)">
+                                    <text transform="translate(-33.569941309412165,21.74992047071949)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
-                                        <tspan x="0" y="1.1em">6.99</tspan>
+                                        <tspan x="0" y="1.1em">7.10</tspan>
                                     </text>
-                                    <text transform="translate(-31.882694293368097,-24.155616419285046)">
+                                    <text transform="translate(-32.30197608733539,-23.591997390073033)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">25.14</tspan>
+                                        <tspan x="0" y="1.1em">25.55</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -549,7 +549,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.61m out of 132m users</span>
+                                    <span class="gh">ranked 1.61m out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">30</div>
                                     </div>
@@ -870,7 +870,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.48m out of 202m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -925,7 +925,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.75m out of 132m users</span>
+                                    <span class="gh">ranked 3.75m out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -943,7 +943,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.8487337440109582 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0609171800136936 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
